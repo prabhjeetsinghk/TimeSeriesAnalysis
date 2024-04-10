@@ -23,8 +23,11 @@
                 <li>numpy</li>
                 <li>matplotlib</li>
                 <li>seaborn</li>
+                <li>plotly</li>
+                <li>statsmodels</li>
+                <li>tensorflow</li>
                 <li>scikit-learn</li>
-                <li>etc. (install required libraries using <code>pip install -r requirements.txt</code>)</li>
+                <li>(install required libraries using <code>pip install -r requirements.txt</code>)</li>
             </ul>
         </li>
     </ul>
